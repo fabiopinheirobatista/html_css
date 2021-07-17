@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:ital,wght@0,100;0,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900$&display=swap');
+
+body {
+    font-family: 'Work Sans';
+    font-size: 1em;
+
+    /* Medidas Absolutas:
+       cm (centímetros)
+       mm (milímetros)
+       in (polegadas  =2,54 centímetros)
+       px (pixels)
+       pt (pontos)
+       pc (paicas)
+
+       Medidas Relativas:
+       em (relativo à altura do M maiúsculo)
+       ex (altura X de uma fonte)
+       rem (relativo ao ROOT que está configurada no BODY)
+       VW (View Widht - relativo à largura da View Port)
+       vh (View Height - relativo à altura da View Port)
+       %
+
+       weight = peso
+       widht = largura
+       height = altura
+
+    */
+}
+h1 {
+    text-decoration: underline;
+    font: bolder 2em 'Work Sans'
+}
+
+h2 {
+    font: bold 1.5em 'Work Sans'
+}
+
+p {
+    font-family: 'Segoe UI';
+    font-style: italic;
+    font-size: 1em;
+    text-align: justify;
+}

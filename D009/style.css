@@ -1,0 +1,42 @@
+body {
+    font-family: calibri;
+    background-color: rgb(61, 92, 153);
+    color: rgb(255, 255, 255);
+}
+h2 {
+    color: aquamarine;
+}
+a {
+    font-family: 'Trebuchet MS';
+    color: aqua;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+    position: relative;
+}
+
+#container-a {
+    margin-left: 20%;
+    align-items: center;
+    background-color: aqua;
+}
+#container-b {
+    margin-left: -4px;
+    align-content: center;
+    background-color: burlywood;
+}
+#container-c {
+    margin-left: 20%;
+    align-items: center;
+    background-color: aqua;
+}
+#container-d {
+    margin-left: -4px;
+    align-content: center;
+    background-color: burlywood;
+}

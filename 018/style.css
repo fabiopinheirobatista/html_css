@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Fredericka+the+Great&family=Work+Sans:wght@100&display=swap');
+
+    /* Medidas Absolutas:
+       cm (centímetros)
+       mm (milímetros)
+       in (polegadas  =2,54 centímetros)
+       px (pixels)
+       pt (pontos)
+       pc (paicas)
+
+       Medidas Relativas:
+       em (relativo à altura do M maiúsculo)
+       ex (altura X de uma fonte)
+       rem (relativo ao ROOT que está configurada no BODY)
+       VW (View Widht - relativo à largura da View Port)
+       vh (View Height - relativo à altura da View Port)
+       %
+
+       weight = peso
+       widht = largura
+       height = altura
+
+       font: italic bolder 3em 'Work Sans'
+
+    */
+
+h1 {
+    font: 3em 'Fredericka the Great';
+}
+
+h2 {
+    font: bold 2em 'Indie Flower'
+}
+
+p {
+    font-family: 'Work Sans';
+    font-weight: normal;
+    font-size: 1.5em;
+    text-align: justify;
+}

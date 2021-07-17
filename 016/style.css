@@ -1,0 +1,13 @@
+* { /* Configurações Globais referentes ao HTML*/
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(-45deg, #3198E2 20%, #6D59C0, #B93590, #E33F5F, #FDD579);
+}
+
+h1 {
+    font-family: 'Segoe UI';
+    color:#0f89e0;
+    text-shadow: #000 2px 3px 2px;
+}
